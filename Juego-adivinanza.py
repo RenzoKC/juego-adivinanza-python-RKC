@@ -5,7 +5,7 @@ import random
 
 numero_secreto = random.randint(1, 101)
 cant_intentos = 0
-cant_max_intentos = 5
+cant_max_intentos = 10
 adivinado = False
 
 print("¡Te damos la bienvenida al juego de adivinar el número secreto!")
